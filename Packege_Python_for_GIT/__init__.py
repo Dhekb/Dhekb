@@ -8,7 +8,7 @@
 #     line = file.readline()
 #     os.environ[line[:line.find('=')]] = line[line.find('=') + 1:]
 # API_KEY = os.environ['APY_KEY']
-#kljkljlkj
+
 ###########################################################################
 import os
 import dotenv
@@ -16,6 +16,3 @@ import dotenv
 dotenv.load_dotenv('.env')
 API_KEY = os.environ['APY_KEY']
 print(API_KEY)
-# gjjkl
-print('rklj')
-print('rklj')print('rklj')vv
